@@ -3,7 +3,9 @@ AET Math and Computer Science lab to find the root of any given equation.
 
 ## Methods to calculate roots
 • Bisection
+
 • Newton’s
+
 • Secant
 
 ## Method Headers
