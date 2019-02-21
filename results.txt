@@ -1,0 +1,20 @@
+Code by Tarun Ravi
+For the equation x^2 - 5x - 6
+Using the bisection method, the root is on: (-0.9999999105930328, 0) and it took 24 runs to calculate it.
+Using the newton method, the root is on: (-1.0000000301327048, 0) and it took 4 runs to calculate it.
+Using the secant method, the root is on: (5.999999997998547, 0) and it took 7 runs to calculate it.
+
+For the equation x^3 + 4x^2 + 2
+Using the bisection method, the root is on: (-4.117942318320274, 0) and it took 25 runs to calculate it.
+Using the newton method, the root is on: (-4.117942272939237, 0) and it took 6 runs to calculate it.
+Using the secant method, the root is on: (-4.117942271725362, 0) and it took 47 runs to calculate it.
+
+For the equation 3cos(x) - 2sin(x)
+Using the bisection method, the root is on: (0.9827938079833984, 0) and it took 19 runs to calculate it.
+Using the newton method, the root is on: (0.9827937232472967, 0) and it took 4 runs to calculate it.
+Using the secant method, the root is on: (0.9827937294069666, 0) and it took 3 runs to calculate it.
+
+For the equation e^x + x^2 - 5
+Using the bisection method, the root is on: (1.241142749786377, 0) and it took 21 runs to calculate it.
+Using the newton method, the root is on: (1.2411427721504618, 0) and it took 7 runs to calculate it.
+Using the secant method, the root is on: (1.241142821514329, 0) and it took 6 runs to calculate it.
